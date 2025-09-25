@@ -8,7 +8,7 @@ A comprehensive SQL-driven solution for inventory management optimization using 
 
 - **Rahul Jat**
 - **Pranav Jori**  
-- **Vanshita Bihani** 
+- **Vanshita Bihani**  
 - **Arpit Kumar** 
 
 *Team StockSmart - Summer Project 2025, CA IIT Guwahati*

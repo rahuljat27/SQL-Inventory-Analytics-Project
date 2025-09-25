@@ -268,3 +268,5 @@ For questions, suggestions, or collaboration opportunities:
 ---
 
 *Built with passion by Team StockSmart | Transforming inventory management through data-driven insights*
+
+Thanks!
